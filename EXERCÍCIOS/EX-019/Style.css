@@ -1,0 +1,18 @@
+@charset "UTF-8";
+body {
+    background-color: rgb(16, 80, 40);
+    font: Normal 16px Arial, Heveltica
+
+}
+h1 {
+    color: aliceblue;
+}
+h1#principal { text-align: center;}
+h2 {
+color: cadetblue;
+}
+
+p {   color: aliceblue ;}
+ 
+.básico {  background-color:black
+font-color:azure }
